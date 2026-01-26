@@ -2,7 +2,7 @@
 // Axios共通設定
 // ==============================
 axios.defaults.withCredentials = true;
-axios.defaults.baseURL = "https://m3h-tajima-back.m3harbor.net/api"; // バックエンドのカスタムドメイン
+axios.defaults.baseURL = "m3h-tajima-back.m3harbor.net/api"; // バックエンドのカスタムドメイン
 
 // ==============================
 // Vueアプリ設定
